@@ -6,6 +6,14 @@ Cognifyz Technologies is a leading technology company that specializes in the dy
 Objectives
 In this internship program, Cognifyz Provided a Set of restaurant dataset. The main objective of the project is to derive valuable insights from the datasets, gain a comprehension of customer behavior, examine the sales and pricing, monitor the services and evalute the performance of restaurant.This data holds significance for decision- making for new chain establishment, refining the market strategies and enhancing overall business operations pertaining to the sales and services.
 
+The dataset contains 21 columns and 9,551 entries. Here are some key columns:
+
+Restaurant ID, Name, Country Code, City - Basic identifiers and location information.
+Longitude, Latitude - Geographic coordinates.
+Cuisines, Average Cost for two, Currency, Price range - Restaurant-specific details.
+Has Table booking, Has Online delivery, Is delivering now - Availability indicators.
+Aggregate rating, Rating color, Rating text, Votes - Ratings and feedback metrics.
+
 INSIGHTS
 Top Cuisine - “North Indian” cuisine serve by 936 restaurants followed by “North Indian, Chinese” and “Chinese” cuisine. This three are most common cuisine in the datasets. Approx. 9.81% of ” North Indian” cuisine serve by restaurant.
 
