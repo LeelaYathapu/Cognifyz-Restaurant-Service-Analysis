@@ -35,6 +35,25 @@ Customers are likely to give higher ratings to restaurants that receive more vot
 
 A positive correlation could suggest that more engaged customers, who take the time to vote, are generally satisfied with their dining experiences. This could be valuable information for understanding customer preferences and satisfaction.
 
+Key Findings from the Data Analysis:
+Price Range Distribution:
+
+Most restaurants fall into Price Range 1 (Low) with 4,444 entries, and Price Range 2 (Moderate) with 3,113 entries.
+Higher price ranges (3 and 4) are less common, suggesting a greater prevalence of budget to mid-range dining options.
+Rating Insights:
+
+Ratings are predominantly in the "Average" (3,737) and "Not rated" (2,148) categories.
+Only 301 restaurants received an "Excellent" rating, indicating a small proportion of highly rated establishments.
+Poorly rated restaurants ("Poor") are minimal, with 186 entries.
+Service Availability:
+
+Table Booking: Only 1,158 restaurants offer table booking, while the majority (8,393) do not.
+Online Delivery: 2,451 restaurants provide online delivery, showing a higher preference for delivery services over table booking.
+Correlations:
+
+The Price Range is moderately correlated with Aggregate Rating (0.44), indicating that higher-rated restaurants may charge more.
+The Votes are slightly positively correlated with Aggregate Rating (0.31), suggesting that higher-rated restaurants tend to receive more votes, potentially due to greater popularity.
+
 Recommendations:
 Improvement of Ratings and Reviews:
 
