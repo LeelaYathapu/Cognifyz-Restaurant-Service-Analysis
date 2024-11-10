@@ -17,7 +17,7 @@ Cuisines, Average Cost for two, Currency, Price range - Restaurant-specific deta
 Has Table booking, Has Online delivery, Is delivering now - Availability indicators.
 Aggregate rating, Rating color, Rating text, Votes - Ratings and feedback metrics.
 
-## INSIGHTS from EDA
+## Insights from EDA
 
 Top Cuisine - “North Indian” cuisine serve by 936 restaurants followed by “North Indian, Chinese” and “Chinese” cuisine. This three are most common cuisine in the datasets. Approx. 9.81% of ” North Indian” cuisine serve by restaurant.
 
@@ -32,7 +32,6 @@ Rating - The rating lies between 0 to 5, zero rating is highest and most common 
 Cuisine combination – “North Indian, Chinese” cuisine lies under the combination cuisine serve by 511 restaurants.
 
 Average Rating - The 734 restaurant chains with the highest average ratings. These chains are likely to be popular among customers and may have a reputation for providing excellent dining experiences.
-
 
 ## Key Findings from the Price Range Distribution, Votes, and Rating Analysis:
 
