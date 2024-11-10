@@ -59,15 +59,15 @@ Customers are likely to give higher ratings to restaurants that receive more vot
 A positive correlation could suggest that more engaged customers, who take the time to vote, are generally satisfied with their dining experiences. This could be valuable information for understanding customer preferences and satisfaction.
 
 ## Recommendations:
-Improvement of Ratings and Reviews:
+#### Improvement of Ratings and Reviews:
 Encourage customer feedback to boost ratings and address gaps in the "Not rated" category. This could increase visibility and credibility.
 
-Pricing Strategies:
+#### Pricing Strategies:
 With a large concentration in lower price ranges, introducing premium offerings could fill the demand for higher-end options, especially for restaurants with "Very Good" or "Excellent" ratings.
 
-Service Expansion:
+#### Service Expansion:
 Restaurants without table booking might consider adopting it, as it may increase their appeal to diners preferring a reservation option.
 Online Delivery shows a high adoption rate; however, restaurants without this option could leverage it to cater to a growing trend toward convenience.
 
-Enhanced Customer Engagement:
+#### Enhanced Customer Engagement:
 Encourage voting and review sharing among customers, especially for highly rated establishments, to strengthen the restaurant's position and appeal in the market. ​​
